@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="aes.js" server="C:/wamp64/www/enugu_diocese/" local="131528126900000000" remote="131528126900000000" Dst="0" />
+<file name="hmac-md5.js" server="C:/wamp64/www/enugu_diocese/" local="131528126900000000" remote="131528126900000000" Dst="0" />
+<file name="hmac-ripemd160.js" server="C:/wamp64/www/enugu_diocese/" local="131528126900000000" remote="131528126900000000" Dst="0" />
+<file name="hmac-sha1.js" server="C:/wamp64/www/enugu_diocese/" local="131528126880000000" remote="131528126880000000" Dst="0" />
+<file name="hmac-sha224.js" server="C:/wamp64/www/enugu_diocese/" local="131528126880000000" remote="131528126880000000" Dst="0" />
+<file name="hmac-sha256.js" server="C:/wamp64/www/enugu_diocese/" local="131528126880000000" remote="131528126880000000" Dst="0" />
+<file name="hmac-sha3.js" server="C:/wamp64/www/enugu_diocese/" local="131528126880000000" remote="131528126880000000" Dst="0" />
+<file name="hmac-sha384.js" server="C:/wamp64/www/enugu_diocese/" local="131528126860000000" remote="131528126860000000" Dst="0" />
+<file name="hmac-sha512.js" server="C:/wamp64/www/enugu_diocese/" local="131528126860000000" remote="131528126860000000" Dst="0" />
+<file name="md5.js" server="C:/wamp64/www/enugu_diocese/" local="131528126840000000" remote="131528126840000000" Dst="0" />
+<file name="pbkdf2.js" server="C:/wamp64/www/enugu_diocese/" local="131528126840000000" remote="131528126840000000" Dst="0" />
+<file name="rabbit-legacy.js" server="C:/wamp64/www/enugu_diocese/" local="131528126840000000" remote="131528126840000000" Dst="0" />
+<file name="rabbit.js" server="C:/wamp64/www/enugu_diocese/" local="131528126840000000" remote="131528126840000000" Dst="0" />
+<file name="rc4.js" server="C:/wamp64/www/enugu_diocese/" local="131528126820000000" remote="131528126820000000" Dst="0" />
+<file name="ripemd160.js" server="C:/wamp64/www/enugu_diocese/" local="131528126820000000" remote="131528126820000000" Dst="0" />
+<file name="sha1.js" server="C:/wamp64/www/enugu_diocese/" local="131528126800000000" remote="131528126800000000" Dst="0" />
+<file name="sha224.js" server="C:/wamp64/www/enugu_diocese/" local="131528126800000000" remote="131528126800000000" Dst="0" />
+<file name="sha256.js" server="C:/wamp64/www/enugu_diocese/" local="131528126800000000" remote="131528126800000000" Dst="0" />
+<file name="sha3.js" server="C:/wamp64/www/enugu_diocese/" local="131528126800000000" remote="131528126800000000" Dst="0" />
+<file name="sha384.js" server="C:/wamp64/www/enugu_diocese/" local="131528126780000000" remote="131528126780000000" Dst="0" />
+<file name="sha512.js" server="C:/wamp64/www/enugu_diocese/" local="131528126780000000" remote="131528126780000000" Dst="0" />
+<file name="tripledes.js" server="C:/wamp64/www/enugu_diocese/" local="131528126760000000" remote="131528126760000000" Dst="0" />
+</dwsync>

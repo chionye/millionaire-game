@@ -1,0 +1,278 @@
+[08-Jul-2020 09:36:26 America/New_York] PHP Notice:  Undefined index: option5 in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 59
+[08-Jul-2020 09:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 09:40:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:56:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:57:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 10:58:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:01:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[08-Jul-2020 11:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/dndcxvbe/app.dndchallenge.com/admin/process.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/dndcxvbe/app.dndchallenge.com/admin/process.php on line 104
+[13-Jul-2020 01:15:28 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:15:40 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:15:48 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:16:00 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:21:34 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:23:22 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:25:39 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:27:16 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:27:32 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:27:59 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:29:20 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:29:37 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:29:49 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:30:01 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:30:15 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[13-Jul-2020 01:33:36 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 198
+[18-Jul-2020 07:13:30 America/New_York] PHP Notice:  Undefined variable: adminname in /home/dndcxvbe/app.dndchallenge.com/admin/userhead.php on line 194

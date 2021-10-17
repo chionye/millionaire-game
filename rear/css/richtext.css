@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.richtext-body{
+    border: solid 1px antiquewhite;
+    float: left;
+    padding-top: 20px !important;
+	position: relative;
+	width: 100%;
+	font-family: Roboto,Helvetica;
+	font-size: 1rem;
+	color: dimgrey;
+}
+.richtext{
+	position: relative;
+}
+.richtext-body .ui-resizable-handle {
+    box-shadow: 1px 1px 1px;
+}
+#edit-tools-h > a:hover, #edit-tools > a:hover, .richtext > a.toggle_views:hover{
+	color: orange !important;
+}
+
+.richtext-body .ui-resizable-handle {
+    box-shadow: 1px 1px 1px 1px;
+}
+.richtext-title{
+	border: 1px solid;
+}
+
+.richtext-body.view2 p::before {
+    content: '↩';
+    position: relative;
+    color: orange;
+    margin-right: 15px;
+}
+.richtext-body.view2 ol{
+	
+}
+.richtext-body.view2 ul{
+	
+}
+
+.richtext-body.view2 ul > li{
+	list-style-type: disc;
+}
+.richtext-body.view2 ol > li{
+	ist-style-type: number;
+}
+
+.richtext > a.toggle_views {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+a.toggle_views.active{
+	color: orange;
+}

@@ -1,0 +1,12 @@
+[02-Jul-2020 07:56:27 America/New_York] PHP Notice:  Undefined variable: citems in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 07:56:27 America/New_York] PHP Notice:  Trying to get property 'sub_total' of non-object in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 07:56:28 America/New_York] PHP Notice:  Undefined variable: address in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 103
+[02-Jul-2020 08:01:28 America/New_York] PHP Notice:  Undefined variable: citems in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:01:28 America/New_York] PHP Notice:  Trying to get property 'sub_total' of non-object in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:01:29 America/New_York] PHP Notice:  Undefined variable: address in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 103
+[02-Jul-2020 08:01:51 America/New_York] PHP Notice:  Undefined variable: citems in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:01:51 America/New_York] PHP Notice:  Trying to get property 'sub_total' of non-object in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:01:52 America/New_York] PHP Notice:  Undefined variable: address in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 103
+[02-Jul-2020 08:02:42 America/New_York] PHP Notice:  Undefined variable: citems in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:02:42 America/New_York] PHP Notice:  Trying to get property 'sub_total' of non-object in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 40
+[02-Jul-2020 08:02:43 America/New_York] PHP Notice:  Undefined variable: address in /home/dndcxvbe/app.dndchallenge.com/parsers/initialize2.php on line 103

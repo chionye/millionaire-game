@@ -1,0 +1,84 @@
+@charset "utf-8";
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600";
+/* CSS Document */
+#myChart{
+	height: 380px !important;
+}
+.info-box {
+    display: block;
+    min-height: 90px;
+    background: #fff;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+.info-box-content {
+    padding: 5px 10px;
+    margin-left: 90px;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 400;
+}
+.info-box-number {
+    display: block;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.info-box-icon {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    display: block;
+    float: left;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    font-size: 45px;
+    line-height: 90px;
+    background: rgba(0,0,0,0.2);
+        background-color: rgba(0, 0, 0, 0.2);
+	padding-top: 12px;
+}
+.dashboard{
+	padding: 20px 50px;
+	width: 100%;
+}
+.pointer{cursor:pointer !important}
+.default{cursor:default!important}
+.fullWidth{width:100% !important}
+.stat-title{
+	padding: 10px;
+	color: #151d3c;
+	border-radius: 3px;
+	margin-left: 5px;
+	width: calc(100% - 10px);
+	float: left;
+	border-bottom: 1px solid #d8d8d8;
+	border-top: 4px solid #f28c1ab3;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+table.stats{
+	width: calc(100% - 10px);
+	margin-left: 5px;
+	color: dimgray;
+}
+
+table.stats th{
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+table.stats td{
+	text-transform: capitalize;
+	font-size: 15px;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 400;
+}
+.table-holder {
+    float: left;
+    padding: 0px 10px;
+    background-color: white;
+    width: calc(100% - 10px);
+    margin-left: 5px;
+}

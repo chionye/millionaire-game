@@ -1,0 +1,37 @@
+/* CSS Document */
+
+.generic-slider{
+	padding-top: 10px !important;
+}
+
+.addSlide {
+    cursor: pointer;
+    color: orange;
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    z-index: 50;
+    background-color: white;
+    padding: 3px 7px;
+    border-radius: 7px;
+}
+.addSlide:hover, .slidEditors > i:hover{
+	transition: 0.5s all;
+	color: antiquewhite;
+	font-size: large;
+}
+
+.slidEditors {
+    position: absolute;
+    z-index: 50;
+    top: -4px;
+    left: -3px;
+    color: #ec9667;
+    background-color: white;
+    padding: 5px 13px;
+    border-radius: 3px;
+}
+.slidEditors > i{
+	margin-right: 3px;
+	cursor: pointer;
+}

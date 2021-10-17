@@ -1,0 +1,415 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu|Modak|Droid+Sans|Baloo+Tammudu:100,300,400,700,900');
+.generic-slider{
+	position: relative;
+}
+
+.generic-slider .addSlide {
+    cursor: pointer;
+    color: orange;
+    position: absolute;
+    top: -6px;
+    right: 3px;
+    z-index: 50;
+    background-color: white;
+    padding: 3px 7px;
+    border-radius: 7px;
+}
+.generic-slider .addSlide:hover, .generic-slider .slidEditors > i:hover, .editors > i:hover{
+	transition: 0.5s all;
+	color: antiquewhite;
+	font-size: large;
+}
+.generic-slider h5{
+	font-size: small;
+}
+.generic-slider .slidEditors {
+    position: absolute;
+    z-index: 50;
+    top: -4px;
+    left: -3px;
+    color: #ec9667;
+    background-color: white;
+    padding: 5px 13px;
+    border-radius: 3px;
+}
+.generic-slider .slidEditors > i{
+	margin-right: 3px;
+	cursor: pointer;
+		width: 13px;
+	height: 13px;
+	background-size: cover;
+}
+.generic-slider .slidEditors > i:hover{
+	width: 14px;
+	height: 14px;
+	transition: 0.3s all;
+	
+}
+.modak {
+    font-family: 'Modak', cursive;
+    font-weight: 400;
+	text-shadow: 2px 2px 2px #000;
+}
+.generic-slider .slider_anchor {
+    border-radius: 4px;
+    text-transform: capitalize;
+    font-weight: bold;
+    box-shadow: none;
+    background-color: #21cefc;
+    color: #FFFFFF !important;
+}
+.generic-slider.animatable .slides li img{
+	animation: imageAnimation 50s linear infinite 0s;
+}
+.generic-slider.animatable .slides li:nth-child(1) > img{
+    animation-delay: 0s;
+}
+.generic-slider.animatable .slides li:nth-child(2) > img{
+    animation-delay: 6s;
+}
+.generic-slider.animatable .slides li:nth-child(3) > img{
+    animation-delay: 12s;
+}
+.generic-slider.animatable .slides li:nth-child(4) > img{
+    animation-delay: 18s;
+}
+.generic-slider.animatable .slides li:nth-child(5) > img{
+    animation-delay: 24s;
+}
+.generic-slider.animatable .slides li:nth-child(6) > img{
+    animation-delay: 30s;
+}
+.generic-slider.animatable .slides li:nth-child(7) > img{
+    animation-delay: 36s;
+}
+.generic-slider.animatable .slides li:nth-child(8) > img{
+    animation-delay: 42s;
+}
+.generic-slider.animatable .slides li:nth-child(9) > img{
+    animation-delay: 48s;
+}
+.generic-slider.animatable .slides li:nth-child(10) > img{
+    animation-delay: 54s;
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0; -webkit-animation-timing-function: ease-in; animation-timing-function: ease-in; }
+    10% { opacity: 1; -webkit-transform: scale(1.1) rotate(3deg); -webkit-animation-timing-function: ease-out; transform: scale(1.1) rotate(3deg); animation-timing-function: ease-out; }
+    20% { opacity: 1; -webkit-transform: scale(1.2) rotate(0deg); transform: scale(1.2) rotate(0deg); }
+    30% { opacity: 0.7; -webkit-transform: scale(1.1) rotate(-3deg); transform: scale(1.1) rotate(-3deg);}
+    60% { opacity: 0.4; -webkit-transform: scale(1.2) rotate(-5deg); transform: scale(1.4) rotate(-5deg);}
+    90% { opacity: 1; }
+}
+
+
+/*---------------------------------------------Card Images here-------------------------------------------------------------------*/
+.card_images {
+    width: 100%;
+    position: relative;
+    margin: auto;
+    box-sizing: border-box;
+	margin-bottom: 15px;
+	float: left;
+}
+.card_images .card_editor > * {
+    height: 13px !important;
+    margin-top: 0 !important;
+    margin-left: 10px !important;
+}
+.card_images .ch-item {
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+	position: relative;
+	cursor: default;
+	box-shadow: 
+		inset 0 0 0 0 rgba(200,95,66, 0.4),
+		inset 0 0 0 16px rgba(255,255,255,0.6),
+		0 1px 2px rgba(0,0,0,0.1);
+		
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.card_images .ch-info {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	opacity: 0;
+	overflow: hidden;
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+	
+	-webkit-backface-visibility: hidden; /*for a smooth font */
+
+}
+
+.card_images .ch-info h3 {
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    letter-spacing: 2px;
+    font-size: 14px;
+    margin: 24px 0 10px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-shadow: 0 0 1px #fff, 0 1px 2px rgba(0,0,0,0.3);
+    font-weight: bold;
+    text-align: center;
+	padding: 0 15px;
+	height: 15px;
+	overflow: hidden;
+}
+
+.card_images .ch-info p {
+    color: #fff;
+    font-style: italic;
+    margin: 0px 20px;
+    font-size: 12px;
+    border-top: 1px solid rgba(255,255,255,0.5);
+    text-align: left;
+    text-transform: capitalize;
+    float: left;
+    padding-top: 5px;
+}
+
+.card_images .ch-info p .card_anchor {
+	display: block;
+	color: #fff;
+	color: rgba(255,255,255,0.7);
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 9px;
+	letter-spacing: 1px;
+	padding-top: 4px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	text-align: center;
+	float: left;
+	width: 100%;
+}
+
+.card_images .ch-info p .card_anchor:hover {
+	color: #fff222;
+	color: rgba(255,242,34, 0.8);
+}
+
+.card_images .ch-item:hover {
+	box-shadow: inset 0 0 0 110px rgba(4, 39, 42, 0.4), inset 0 0 0 16px rgba(255,255,255,0.8), 0 1px 2px rgba(0,0,0,0.1);
+	border-radius: 20px;
+	transition: all 0.4s ease-in-out;
+}
+
+.card_images .ch-item:hover .ch-info {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);	
+}
+
+.card_images .ch-grid li {
+    width: calc(50% - 20px);
+    display: inline-block;
+    margin: 10px;
+    float: left;
+    height: 180px;
+}
+.card_images .ch-grid {
+    float: left;
+    list-style: none;
+    text-align: center;
+    background-color: #49556b;
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin: auto;
+    padding: 5px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.card_images .ch-grid .card_desc {
+    max-height: 52px;
+    float: left;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.card_images .card_editor {
+    position: absolute;
+    bottom: 0px;
+    right: 12px;
+    background-color: #ccdbda66;
+    height: 18px;
+    width: 83%;
+    padding: 2px 30px;
+    border-radius: 10px;
+}
+
+.card_images .card_editor i{
+	float: left;
+	color: antiquewhite;
+	cursor: pointer;
+}
+.card_images .card_editor i:hover{
+	color: orange !important;
+	transition: 0.5s all;
+	cursor: pointer;
+}
+.ch-info{
+	cursor: pointer;
+}
+.card_images .card_editor i:first-child{margin-right: 25px;}
+
+#imageCard_preview {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #0000004d;
+	display: none;
+}
+
+#imageCard_preview.show{
+	z-index: 10000;
+	display: block;
+	position: fixed;
+	cursor: pointer;
+}
+
+#imageCard_preview > img {
+    margin: auto;
+    position: relative;
+    display: block;
+    top: 50px;
+	cursor: default;
+}
+
+/*------------------------------------------------------------------specifications------------------------*/
+.card_specifications {
+    float: left;
+    width: 100%;
+    padding: 20px 20px 0px 20px;
+    box-sizing: border-box;
+}
+
+.card_specifications .specification_head {
+    float: left;
+    width: 100%;
+    padding: 5px 15px;
+    color: #595e69;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+   /* box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);*/
+    border-top-right-radius: 30px;
+	line-height: 36px;
+	border-top-left-radius: 30px;
+	border: solid 1px #e9e9e9;
+}
+
+.card_specifications .add_specification {
+    float: right;
+    width: 48px;
+    background-color: white;
+    padding: 2px 10px;
+    box-sizing: border-box;
+    margin-right: -7px;
+    font-size: 11px;
+    cursor: pointer;
+    color: #595e69;
+    border-top-right-radius: 22px;
+    height: 34px;
+    border: solid #fff5f5;
+    margin-top: 2px;
+}
+
+.fullWidth{
+	width: 100% !important;
+}
+.card_specifications .specification_head > span{
+	margin-left: 4px;
+}
+.card_specifications .collapsible-logo {
+    float: left;
+    width:  30px;
+    height:  30px;
+    margin-top: 5px;
+	overflow: hidden;
+    margin-right: 15px;
+    border-radius:   3px;
+    background-size: cover;
+	box-sizing:   border-box;
+	border: solid #9890a1 2px;
+    background-repeat:no-repeat;
+}
+.card_specifications .add_specification.hoverable img {
+    float: left;
+    margin-top: -2px;
+    margin-left: -4px;
+}
+.card_specifications .collapsible-logo > img{
+	float: left;
+	width: 100%;
+}
+.card_specifications .collapsible-header {
+	position: relative;
+	float: left;
+	width: 100%
+}
+.card_specifications .collapsible-body {
+    float: left;
+	width: 100%;
+	padding: 10px 50px;
+	position: relative;
+	background-color: #f6f4f2;
+}
+.card_specifications .collapsible-body > div::before {
+    position: absolute;
+    content: ".";
+    left: 36px;
+    font-size: 30px;
+    color: brown;
+    line-height: 6px;
+    font-weight: bold;
+}
+.card_specifications .collapsible{
+	margin-top: 3px;
+	box-shadow: none;
+}
+.card_specifications .collapsible-header .editors {
+    position: absolute;
+    right: 5px;
+}
+
+.card_specifications .collapsible-header .editors > i{
+	font-size: 12px;
+	width: unset;
+}
+.card_specifications .collapsible > li, .card_specifications .collapsible {
+    float: left;
+    width: 100%;
+}
+.card_specifications .add_specification:hover {
+    border-top-right-radius: 15px;
+    transition: 0.9s all ease-in-out;
+    border: double orange;
+    color: orange;
+}
